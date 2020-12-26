@@ -30,29 +30,34 @@ As I see it these should be the goals of the training:
 Observations
 ------------
 TODO: divide it to topics
-* Every training step should have an ex to showcase it
-* Using from the first second a code style guide
-* Everything is in the Wiki, constantly updating it (every time someone needs some info will look in the wiki, if there is none then ask and update the wiki or open a task with priority high)
-* The process mostly should be self serve
-* Training instructor, buddy, go to person for question (for any kind, social or technical, not have to be a single person)
-* Each training step should have a clearly stated learning goal
-* Learning from trainees, always improving the training cycle
-* Incorporating as much as possible production “real” tasks as a part of the training
+* Every training step should have an exercise to showcase it.
+* If you have a code style in use, it should be applied from the first second. If a trainee can go to several teams that have different style guides (Ideally this should be a cross company standard from internal mobility concerns).
+* Everything should be in the Wiki, constantly updating it (every time someone needs some info will look in the wiki, if there is none then ask and update the wiki or open a task with priority high).
+* The process mostly should be self serve with the buddies support.
+* Training instructor, buddy, go to person for question (for any kind, social or technical, does not have to know everything but can point to the right place to seek answers).
+* Each training step should have a clearly stated learning goal, like "getting to know framework X" or "getting familiar with workflow"
+* Learning from trainees processes, from first hand experience, team members, buddies and team leader at different time points. For example, at the end of the training and after six months so you could see
+  * What was relevant or not to learn
+  * What was not enough or overlocked
+  * What need to be preserve as is.
+  Always improve the training cycle, because "the only constant is change" and trainees background is different.
+* Incorporate as much as possible production “real” tasks as a part of the training in service of the ideal of "first day an effective team member".
 * Clear roadmap for the trainee and range of time for each task, so they could raise a flag that they need help or you will notice that. By this they will learn that it’s ok to raise a flag. Also people tend to think that they are late and that they are drill too much into subjects
 * More than one person (trainee) in the process in the same or close stages, and also more than one technical person for a wider view and opinions of the system (will lead to better new ideas from the new guy/women).
 * Using as much as possible prod development standard (and probably you should have one :) ) in every ex, toy ex are not interesting and will slow the progress
-* Allow trainee to do things in his own style, like doing things linear or in parallel, learning visually/reading/writing
+* Allow trainees to do things in their own style, like: doing tasks linear or in parallel or learning visually/reading/writing. So they could start to see how their work style will fit in the team (or not which could mean for them to adapt to it).
 * Basic code examples - reduce the amount of boiler code, for example there is no point to make someone write an http server from scratch. Choose what you want the trainee to learn, maybe go through the template
-* Design to skill level, could have more ex or different ones. But with the same core
+* Different seniority levels require different skill levels, so design accordingly which could mean having more exercises or even different ones. But with the same core
 * The trainee at the end of the training should learn where to look (google, wiki or the person next door) and how+when to choose which one.
-* Check in with the trainee to see it’s progress, but not in scrum like and do daily
+* Check-in with the trainee to see it’s progress, but not in scrum like and do daily so to accustom it to normal team workflow.
 * If there is team training and basis training, leave the heavy technical stuff for the team.
 
 Conclusions
 -----------
 I don’t think there is a silver bullet, like everything in the programming world there is more than one way to do things (and that’s what makes this fun and interesting to do :) ), but I think there are a couple of basic big ideas that will increase the chances for a successful training process according to your view:
-Design the process, as a whole down to it’s ex (knots and bullets), in sight of your training objectives
-Always take feedback from trainees and other stack holders (team leader of the trainee, team members and buddies),
-Manage your main goals down to earth, down to achievable targets and leave room for surprises.
+* Design the process, as a whole down to it’s to the basic exercises (knots and bullets), in sight of your training's goals.
+* Manage your goals down to earth, to the level of achievable targets and leave room for surprises.
+* Always take feedback from trainees and other stack holders (team leader of the trainee, team members and buddies).
+Let me know what you think.
 
 Until next time :)
