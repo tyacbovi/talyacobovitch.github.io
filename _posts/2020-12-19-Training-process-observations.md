@@ -5,7 +5,7 @@ I been through 3 complete training processes and more than 5 specific team train
 
 “Good training process” what do you mean?
 -----------------------------------------
-Before getting to what includes a "good training" we need to define it's goals, without this of course we can not see if we are going the right way.
+Before getting to what includes a "good training" we need to define it's goals, without this of course we can not see if we are heading the right way.
 And well this’s a pretty hard question to answer, when you think about it and a very subjective one. So let’s start at looking on a simpler question of what we want to gain from a training process, as I see it the big picture targets are:
 * Gain an effective team member (task wise) as the best person in the team (from the first second after the training of course).
 * The training process should happen in the shortest time frame as possible (for obvious reasons).
@@ -30,17 +30,17 @@ As I see it these should be the goals of the training:
 Observations
 ------------
 TODO: divide it to topics
-* Every training step should have an exercise to showcase it.
-* If you have a code style in use, it should be applied from the first second. If a trainee can go to several teams that have different style guides (Ideally this should be a cross company standard from internal mobility concerns).
-* Everything should be in the Wiki, constantly updating it (every time someone needs some info will look in the wiki, if there is none then ask and update the wiki or open a task with priority high).
-* The process mostly should be self serve with the buddies support.
-* Training instructor, buddy, go to person for question (for any kind, social or technical, does not have to know everything but can point to the right place to seek answers).
-* Each training step should have a clearly stated learning goal, like "getting to know framework X" or "getting familiar with workflow"
-* Learning from trainees processes, from first hand experience, team members, buddies and team leader at different time points. For example, at the end of the training and after six months so you could see
-  * What was relevant or not to learn
-  * What was not enough or overlocked
-  * What need to be preserve as is.
-  Always improve the training cycle, because "the only constant is change" and trainees background is different.
+* Each training step should have a clearly stated learning goal, like "getting to know framework X" or "getting familiar with workflow". In order to know what is cover in the training and manage the coverage (like the unit test coverage of a code repo).
+* Every training subject should have an exercise to showcase it, so the trainee will get his "hands dirty" and raise questions early on. Of course one exercise can cover more than one subject, so you will not end up with a lot of exercises which will tire your hard working trainee.
+* If you have a code style in use, it should be applied from the first second. If a trainee can go to several teams in the company that have different style guides, in my view don't put the little mistakes on focus because it's a matter of an opinions (Ideally this should be a cross company *one* standard from internal mobility concerns).
+* *Everything* should be in the Wiki, constantly updating it which means that every time someone needs information will look firstly in the wiki, if there is none then ask and update the wiki himself/herself or open a task with priority high.
+* The training process mostly should be a self serve with the buddies support (see the clause about buddies).
+* Training instructor, buddy, the "go to person" for question (for any kind, social or technical) does not have to know everything but can point to the right place to seek answers. So it's important to choose the right people in terms of knowledge and character for the success of the process.
+* Learning from first hand experience trainees, team members, buddies and team leader at different time points. For example, at the end of the training and after six months so you could see:
+  * What was relevant or not to learn in the sense that the trainee had used it at least more then once after the training.
+  * What was not enough, overlocked or needs to be preserve as is.
+  * What was different from the actual teams practises.
+  Always improve the training cycle, because "the only constant is change" (not my quote, but believe in it fully) which comes to expression by for example changing training plan and the actual trainees background which is not the same.
 * Incorporate as much as possible production “real” tasks as a part of the training in service of the ideal of "first day an effective team member".
 * Clear roadmap for the trainee and range of time for each task, so they could raise a flag that they need help or you will notice that. By this they will learn that it’s ok to raise a flag. Also people tend to think that they are late and that they are drill too much into subjects
 * More than one person (trainee) in the process in the same or close stages, and also more than one technical person for a wider view and opinions of the system (will lead to better new ideas from the new guy/women).
