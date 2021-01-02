@@ -18,13 +18,13 @@ In most cases from my experience, most people will not reach those high in the s
 
 As I see it these should be the goals of the training:
 * Knows where to look for info, and not just his closest team member.
+* Knows who and how to ask questions (TODO: probably not relevant because this is not important in the training level).
 * Understand the team’s code flow, for example when giving a bug knows where to start looking (which could be the wrong place).
 * Can do simple tasks, quick wins, grunt work at least
 * Can understand team design docs
 * Knows what is the basic workflow in the team, for example scrum and things alike
 * Feeling able and understand the motivation to keep the docs and training up to date.
 * Takes initiative and feel safe too, passion is important
-* Knows who and how to ask questions.
 * Ideally team member socially.
 
 Observations
@@ -39,7 +39,7 @@ TODO: divide it to topics
 * Learning from first hand experience trainees, team members, buddies and team leader at different time points. For example, at the end of the training and after six months so you could see:
   * What was relevant or not to learn in the sense that the trainee had used it at least more then once after the training.
   * What was not enough, overlocked or needs to be preserve as is.
-  * What was different from the actual teams practises.
+  * What was different from the actual teams practices.
   Always improve the training cycle, because "the only constant is change" (not my quote, but believe in it fully) which comes to expression by for example changing training plan and the actual trainees background which is not the same.
 * Incorporate as much as possible production “real” tasks as a part of the training in service of the ideal of "first day an effective team member".
 * Clear roadmap for the trainee and range of time for each task, so they could raise a flag that they need help or you will notice that. By this they will learn that it’s ok to raise a flag. Also people tend to think that they are late and that they are drill too much into subjects
@@ -47,10 +47,9 @@ TODO: divide it to topics
 * Using as much as possible prod development standard (and probably you should have one :) ) in every ex, toy ex are not interesting and will slow the progress
 * Allow trainees to do things in their own style, like: doing tasks linear or in parallel or learning visually/reading/writing. So they could start to see how their work style will fit in the team (or not which could mean for them to adapt to it).
 * Basic code examples - reduce the amount of boiler code, for example there is no point to make someone write an http server from scratch. Choose what you want the trainee to learn, maybe go through the template
-* Different seniority levels require different skill levels, so design accordingly which could mean having more exercises or even different ones. But with the same core
+* Different seniority levels require different knowledge levels, so design accordingly which could mean having more exercises or even different ones probably with the same core.
 * The trainee at the end of the training should learn where to look (google, wiki or the person next door) and how+when to choose which one.
-* Check-in with the trainee to see it’s progress, but not in scrum like and do daily so to accustom it to normal team workflow.
-* If there is team training and basis training, leave the heavy technical stuff for the team.
+* Check-in with the trainee to see it’s progress via the buddy or the instructor, but in a longer periods (so the trainees will have a chance to complete tasks even small ones and feel they are making progress) in order to accustom them to a normal team workflow.
 
 Conclusions
 -----------
