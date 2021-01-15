@@ -1,11 +1,10 @@
 Introduction
 ------------
-Recently I have started to work for a new company, which included going through a training process and I was requested to give feedback on it. That made me reflect on "what makes a training process a good one?" for the trainee and trainer (not in sport talk employee and employer) and what is actually a “good training process”, by thinking about all the previous training processes that I have been through.
-I been through 3 complete training processes and more than 5 specific team training, and I had the chance to write 2 complete and 3 team specific training processes for multiple developers disciples. And along the way, I noticed what worked for me and what seems to work for others from my perspective.
+Recently I have started to work for a new company, which included going through a training process and at the end I was requested to give feedback on it. While going over what I have been through in the training, it got me to think about "what makes a training process a good one?" for the trainee and trainer (not in sport terms, employee and employer) and what is actually a “good training process”, so I tried to think about all the previous training processes that I have been through and notice what worked for me and what seems to work for others from my perspective. I been through 3 complete training processes and more than 4 specific team training, and I had the chance to write 2 complete and 3 team specific training processes for multiple developers disciples and backgrounds.
 
 “Good training process” what do you mean?
 -----------------------------------------
-Before getting to what includes a "good training" we need to define it's goals, without this of course we can not see if we are heading the right way.
+Before getting to what is contained in a "good training" we need to define it's goals, without this of course we can not see if we are heading the right way.
 And well this’s a pretty hard question to answer, when you think about it and a very subjective one. So let’s start at looking on a simpler question of what we want to gain from a training process, as I see it the big picture targets are:
 * Gain an effective team member (task wise) as the best person in the team (from the first second after the training of course).
 * The training process should happen in the shortest time frame as possible (for obvious reasons).
