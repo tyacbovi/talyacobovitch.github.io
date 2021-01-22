@@ -58,18 +58,24 @@ During Training
 
 After Training
 --------------
-* Learning from first hand experience trainees, team members, buddies and team leader at different time points. For example, at the end of the training and after six months so you could see:
-  * What was relevant or not to learn in the sense that the trainee had used it at least more then once after the training.
-  * What was not enough, overlocked or needs to be preserve as is.
-  * What was different from the actual teams practices.
-  Always improve the training cycle, because "the only constant is change" (not my quote, but believe in it fully) which comes to expression by for example changing training plan and the actual trainees background which is not the same.
+* Learning from first hand experience trainees, team members, buddies and team leader at different time points (For example, at the end of the training and after six months), so you could see:
+  * What was relevant or not to learn, in the sense that the trainee had used it at least more then once after the training of course this depends when you check in with the trainee. I recommend after a period of six months to check in and see their feedback, because if the trainee only used some training subject once it's a sunk cost because that knowledge will be lost over time. That could happen from a couple of reasons:
+    * The subject was too advance and you preferred to be done by someone more senior in the team, so it's a good inductor that you can not include that subject in your training.
+    * The subject needs to be handled once in a blue moon, so it could be a good idea to invest time to automate it completely.
+    * And of course just a matter coincides, so always take into consideration the circumstances.
+  * What was not enough, overlocked or needs to be preserve as is- well this is a very hard meter to gauge, but the best effort in my mind is to try to understand this from the feedback from all stakeholders. Which could help what to filter out or beef out in the training of course in sight of our main goal to get a productive team member at the end of the training. By asking the following questions:
+    * What was hard and what was easy.
+    * What the trainee needed more to hold is hand and what less.
+    * What to took more the original estimations by the trainee and the team leader (or other team member).
+    * What was different from the actual teams practices, which could mean wasting time to unlearn something by the trainee and not learning something new.
+  * Always improve the training cycle, because "the only constant is change" (not my quote, but believe in it fully) which comes to expression by for example changing training plan and the actual trainees background which is not the same.
 
 Conclusions
 -----------
 I don’t think there is a silver bullet, like everything in the programming world there is more than one way to do things (and that’s what makes this fun and interesting to do :) ), but I think there are a couple of basic big ideas that will increase the chances for a successful training process according to your view:
-* Design the process, as a whole down to it’s to the basic exercises (knots and bullets), in sight of your training's goals.
-* Manage your goals down to earth, to the level of achievable targets and leave room for surprises.
-* Always take feedback from trainees and other stack holders (team leader of the trainee, team members and buddies).
+* Design the process, as a whole down to it’s to the basic exercises (the knots and bullets), in sight of your training's goals.
+* Manage your goals down to earth, down to the level of achievable targets and leave room for surprises.
+* Always take feedback from trainees and other stack holders (team leader of the trainee, team members and buddies) and try to improve.
 Let me know what you think.
 
 Until next time :)
