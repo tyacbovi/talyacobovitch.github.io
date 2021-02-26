@@ -1,21 +1,22 @@
 Introduction
 ------------
-Recently I have started working for a new company, which included going through a training process for entering the R&D. At the end of it I was requested to give some feedback, but while going over what I have been through it got me to think about "what makes a training process a good one?" for the trainee and trainer (not in sports terms, employee and employer) and what is actually a “good training process”. So I tried to think about all the previous training processes that I have been through, and along the different processes I have come to some observations about what worked for me and what seems to work for others from my perspective. I have been through 3 complete training processes and more than 4 specific team training, and I had the chance to write 2 complete and 3 team specific training processes for multiple developers disciples and backgrounds.
+Recently I have started working for a new company, which included going through a training process for entering the R&D department. At the end of it I was requested to give some feedback, but while going over what I have been through it got me pondering about "what makes a training process a good one?" for the trainee and trainer (the employee and employer) and what is a “good training process”. So I tried to think about all the previous training processes that I have been through or had the chance to design by myself, and I have come to several observations about what worked for me (or didn't) and what seems to work for others from my perspective.
 
 “Good training process” what do you mean?
 -----------------------------------------
-Before getting to what is contained in a "good training" we need to define it's goals, without this of course we can not see if we are heading the right way.
-And well this’s a pretty hard question to answer, when you think about it and a very subjective one. So let’s start at looking at a simpler question of what we want to gain from a training process, as I see it the big picture targets are:
-* Gain an effective team member (task wise) as the best person in the team (from the first second after the training of course).
+Before getting to what is contained in a "good training" we need to define it's goals, we won’t be able to tell whether we are heading the right way.
+And well this’s a pretty hard question to answer, when you think about it and also a very subjective one. So let’s start by looking at a simpler question of what do we want to gain from a training process.
+As I see it the big picture targets are:
+* Gain an effective team member, which means that they can handle any task that you would normally give (from the first second after the training of course). While in realistic perspective, it will probably take them more time to complete than an experienced team member.
 * The training process should happen in the shortest time frame possible (for obvious reasons).
 * Gain a team member socially wise, we want the new person to fit in because that will help to make the workplace nicer to be in. Which will likely improve collaboration and in turn could improve productivity.
 
 In most cases from my experience, most people will not reach those high in the sky goals after any training. Because of several reasons:
 * People don’t like long training, so they tend to rush to finish the tasks even if they don’t finish just to mark it as done and to make a good impression at the new company/team.
 * People cannot remember everything that they learn in the training, and in most cases, the important info to remember is not pointed out to them or what they should not remember.
-* Set clear and transparent goals for the training from the trainee, like gain basic knowledge in a new language vs learn specific X topics in that language, not clear ex (like giving an exercise to write an HTTP server that does some logic, but the trainee spend most of the time to raise the server then focusing on writing the logic). NOTE to self: this point needs clear examples that will make the point.
+* Set clear and transparent goals for the training from the trainee, like gaining basic knowledge in a new language vs learning specific X number of topics in that language, not clear exercise (like giving an exercise to write an HTTP server that does some logic, but the trainee spends most of the time to raise the server rather than focusing on writing the logic). NOTE to self: this point needs clear examples that will make the point.
 
-As I see it, these should be the goals of the training:
+As I see it, these should be what the trainee gains from the training process:
 * Knows where to look for info, and not just his closest team member.
 * Knows who and how to ask questions (TODO: probably not relevant because this is not important in the training level).
 * Understand the team’s code flow, for example when giving a bug knows where to start looking (which could be the wrong place).
@@ -23,21 +24,21 @@ As I see it, these should be the goals of the training:
 * Can understand team design docs.
 * Knows what is the basic workflow in the team, for example, scrum and things alike.
 * Feeling able and understand the motivation to keep the docs and training up to date.
-* Takes initiative and feel safe too, passion is important.
+* Takes initiative and feel safe to, passion is important.
 * Ideally team member socially.
 
-So how can we get there?! in my mind the following observations can help in service of that.
+So after we figured out our more detailed goals from the traning process, we need to think and design what a "good training process" will contain. As I see it. the following observations are a part from any "good training process" that I have been through.
 
 Training planning
 -----------------
-* Each training step should have a clearly stated learning goal, like "getting to know framework X" or "getting familiar with workflow (like updating a message schema)". This is important for several reasons:
-  * For the trainer side, to know what is cover in the training and manage the coverage (like the unit test coverage of a code repo). So you won't have duplication in your exercises (which equals to a waste of time), not have unintentionally covered topics, like a software project, allow more easily to update the training and allow your trainee a clear target on what to focus on.
-  * For the trainee side, you know exactly what you are going to go through (which can pique their interest and maybe lead them to explore on themselves, which is excellent of course), guide you on what to focus on, and maybe guide you to ask the more interesting questions.
+* Each training step should have a clearly stated learning goal, like "getting to know framework X" or "getting familiar with workflow Y (like updating a message schema)". This is important for several reasons:
+  * For the trainer side, you would know what is covered in every step and manage it's coverage on it's target goal (very much like a unit tests' coverage). So you won't have duplication in your exercises (which equals to a waste of time), won't have unintentionally uncovered topics. Like a software project, knowing the current level of tests coverage and making it run more efficiently it will gain more positive results for you.
+  * For the trainee side, they will know exactly what you are going to go through next on the training (which could peak their interest and maybe lead them to explore further by themselves, which is excellent of course). And should provide them a clear guidance on what to focus on and help them to ask more "interesting" (relevant) questions.
 * Every training goal should have an exercise to showcase it, so the trainee will get his/her "hands dirty" and raise questions early on. Of course, one exercise can cover more than one goal, so you will not end up with a lot of exercises that will tire your hard working trainee.
 * Different seniority levels require different knowledge levels, so design accordingly which could mean having more exercises or even totally different ones probably with the same core. This is for not "wasting" the time for the senior people with simpler exercises or get in too deep fairly quickly for less experienced people, this will probably simplify the training and shorten it. This can also mean in lesser need to monitor the trainee or asking them different questions for seeing what they learn.
 * Allow trainees to do things in their own style, like doing tasks linear or in parallel, learn by visually/reading/writing of course as currently possible. So they could start to see how their work style will fit in the team (or not, which could mean for them to find a way to adapt to it).
 * The training process mostly should be a self serve with the buddies support (see the clause about buddies later on), this is very important for serval reasons:
-  * This will allow some degree of independence to the trainee, and as we talked about earlier they could do the exercises in their own style or maybe pique their interest to explore. And of course will lower the loud on the trainer, because allegedly everything is written down.   
+  * This will allow some degree of independence to the trainee, and as we talked about earlier they could do the exercises in their own style or maybe peak their interest to explore. And of course will lower the loud on the trainer, because allegedly everything is written down.   
   * This forces you to maintain all the training material in some form of writing and not in the mind of a specific trainer (better bus factor).
   * Allows to also expose the entire training to the all company and get constant feedback from them, because they know pretty much what goes on in the training (of course there could be some variance). And maybe manage training material update as merge requests, which can help immensely in my mind.
 * In case of more than one person (trainee) in the process Ideally in the same or close stages, you should try to create a group environment if by setting them together or even fun activities special for them. This is beneficial for serval of reasons:
@@ -75,7 +76,7 @@ Conclusions
 I don’t think there is a silver bullet, like everything in the programming world there is more than one way to do things (and that’s what makes this fun and interesting to do :) ), but I think there are a couple of basic big ideas that will increase the chances for a successful training process according to your view:
 * Design the process, as a whole down to basic exercises (the knots and bullets), insight of your training's goals.
 * Manage your goals down to earth, down to the level of achievable targets, and leave room for surprises.
-* Always take feedback from trainees and other stack holders (team leader of the trainee, team members, and buddies) and try to improve.
+* Always take feedback from trainees and other stackholders (team leader of the trainee, team members, and buddies) and try to improve.
 Let me know what you think.
 
 Until next time :)
