@@ -69,6 +69,9 @@ Incorporate design and design review standards, code review, code style, etc. Du
 # "The only constant is change"
 Like everything in programming, nothing stays the same for long. The same is true for our training goals. To keep in sync, we need to take a page from the agile methodology playbook. So let's treat this as a regular software project in your system (one of the most critical ones).
 If we follow the agile process, but in the context of training, we have the following:
+
+![](../images/agile.png)
+
 1. **Planning** our training goals to be relevant and precise to our needs now.
 2. **Design** the required exercise ideas while considering our needs and appropriate seniority levels.
 3. **Develop** the required materials to support this process. I recommend managing the material as code with the same tools, creating a simple and transparent company-wide process.
@@ -80,10 +83,10 @@ We've covered everything except the feedback, which can be the most important â€
 We **need constant feedback** from the trainees, team members, buddies, and team leaders at different times. But what should we look for?
 Focus on which topics the trainee used more than once after the training, and define which topics were relevant or not.
 We should also focus on what was not enough, overlooked, or needs to stay as is. But how can we gauge this? The best effort in my mind is to try to understand this by asking all stakeholders the following questions:
-Which subjects did the trainee feel to be hard or easy?
-Where did the trainees need more or less support?
-Which tasks took more time than estimated, by the trainee or by planned estimations?
-Which training aspects were different from the actual team's practices?
+* Which subjects did the trainee feel to be hard or easy?
+* Where did the trainees need more or less support?
+* Which tasks took more time than estimated, by the trainee or by planned estimations?
+* Which training aspects were different from the actual team's practices?
 Review this after about six months so that the trainee will have the chance to do a wide enough range of tasks. Remember that the more topics the training covers, the more time and costs it will accumulate.
 
 # Summary
